@@ -1,0 +1,19 @@
+{
+  "name": "math-_website-",
+  "version": "1.0.0",
+  "description": "this is my new repo yes bro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrajwalTech-45/Math-_Website-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrajwalTech-45/Math-_Website-/issues"
+  },
+  "homepage": "https://github.com/PrajwalTech-45/Math-_Website-#readme"
+}
